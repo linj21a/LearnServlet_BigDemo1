@@ -1,0 +1,7 @@
+url=jdbc:mysql://localhost:3306/servlet?characterEncoding=utf8&useSSL=false&serverTimezone=UTC&rewriteBatchedStatements=true
+username=root
+password=lh123321root
+driverClassName=com.mysql.cj.jdbc.Driver
+initialSize=5
+maxActive=10
+maxWait=3000
